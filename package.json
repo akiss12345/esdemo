@@ -33,8 +33,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@helix-design-system/button": "^1.0.0",
-    "@helix-design-system/tokens": "^1.0.6",
     "@lit/react": "^1.0.2",
     "@sitecore-feaas/clientside": "^0.5.5",
     "@sitecore-jss/sitecore-jss-nextjs": "~21.5.3",

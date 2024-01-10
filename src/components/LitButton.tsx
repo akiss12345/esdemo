@@ -32,16 +32,16 @@ const MyLitButtonWrapper = createComponent({
 });
 
 export const Default = (props: LitButtonProps): JSX.Element => {
-
   return (
     <div className={`component litbutton ${props.params.styles}`}>
       <div className="component-content">
-        {props.fields?.link ? 
-            <MyLitButtonWrapper>
-                <Link field={props.fields?.link} />
-            </MyLitButtonWrapper> :
-            <div>Please fill datasource</div>
-        }
+        {props.fields?.link ? (
+          <MyLitButtonWrapper>
+            <Link field={props.fields?.link} />
+          </MyLitButtonWrapper>
+        ) : (
+          <div>Please fill datasource</div>
+        )}
       </div>
     </div>
   );
