@@ -1,0 +1,397 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Headless Tenant.yml
+ID: "7cd8ff51-3ff9-4e85-a225-2f1c995cfecc"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Headless Tenant
+Signature: JLdiPNyChzIHcff9H31gYI94c0VbDLcxOVxgLOnuvf0=
+Modified: 638405034238665046
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Headless Site.yml
+ID: "4a292725-61c7-4588-b129-d9dc4fe6b3b3"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Headless Site
+Signature: DsMFxtO8w4FD+0tfd0YP/cLIWnHR4CDsbWBF4XSjooc=
+Modified: 638405034238645320
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\JSS Settings.yml
+ID: "095fd92c-6ed2-4337-a125-17b12c66339e"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/JSS Settings
+Signature: ST5aQDh5GoPkvcqLKn6B7SWyffl4d6YBEFFpy0PDQfU=
+Modified: 638405034238675059
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components.yml
+ID: "de80e77c-ba03-4315-81a4-a1b0a1831a5a"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/ESDemo/Components
+Signature: 98i9F5IRLIlPj5OPSWPpvwBJkETpMwSro8o3eeX1XC8=
+Modified: 638405034238605075
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo.yml
+ID: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/ESDemo
+Signature: xulOau4KOGlt8R9cGNUFJQSPabaDQmRyVBErHTEek8I=
+Modified: 638405034238575066
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT.yml
+ID: "7189a791-fc5a-4115-90ab-8782d1b85b6d"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/ESDemo/LIT
+Signature: QisSPm9fLchxoAoNywhBLZwGqrRrTe8iG0a/5UTF7cM=
+Modified: 638405034238615066
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page Designs.yml
+ID: "bb1120ca-6472-400b-b9f1-e0937608deda"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Page Designs
+Signature: q71+XZuI4KsquKdL13b5bviDxDAYmXGPTJpZrdBDscY=
+Modified: 638405034238725043
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page.yml
+ID: "78e429e0-f9f8-476d-b3d6-7fa717e8e2e8"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Page
+Signature: V6qWqgxYbSKK0lwl5s5u4sdGsk3QfY4K08K9wrQ7ZMY=
+Modified: 638405034238685058
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page Design Folder.yml
+ID: "9d457f4f-29d1-4ac7-a784-87eb2b1cfb9f"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Page Design Folder
+Signature: bpnMIgmFhcuDpKbzX11l1+ZihnvhkUkh9MdR/iJjQi0=
+Modified: 638405034238715042
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page Content.yml
+ID: "2b408b1f-993f-40e2-85ae-33283225d6e5"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Page Content
+Signature: NRqDr069vvG3UPa6HDHhxJeWOGWdi0eGjxfBa6Zooo0=
+Modified: 638405034238705043
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Partial Design Folder.yml
+ID: "80f2cf48-e0b9-4e52-9c7b-87bfb2df4b45"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Partial Design Folder
+Signature: qNQNIAbiQoIlWwcGfwx2tqYznLqEr+1pGSxiNLE8gEw=
+Modified: 638405034238735057
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero Folder.yml
+ID: "9495a9d1-89ce-47bf-97c6-8913a3a9a12c"
+Parent: "de80e77c-ba03-4315-81a4-a1b0a1831a5a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero Folder
+Signature: ZmT8hXxNnuiKTjPoGIlSeBiL0QumT30gII+2gkQ9Sas=
+Modified: 638405034238785071
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero.yml
+ID: "80250061-fbc6-4253-9273-528d1706d4e4"
+Parent: "de80e77c-ba03-4315-81a4-a1b0a1831a5a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero
+Signature: I9Zyg3KtowXPCNrthS5cuooAnARGmGx22hQSvtz74TI=
+Modified: 638405034238765179
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Partial Designs.yml
+ID: "be5e5d07-a8ce-4c67-b1e0-a3d1ff44acb9"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Partial Designs
+Signature: 2UZ/46+DHJQzvN5BH+U3TQXThEmRHm12oZIFGih+W28=
+Modified: 638405034238755059
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Rendering Parameters.yml
+ID: "e7c4fe31-a53c-49da-9333-07dfd491805f"
+Parent: "981450e6-a144-4c2c-ac51-fb11d9b3d852"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/ESDemo/Rendering Parameters
+Signature: MyYQ+QyAI1Fv4Jqo2tY2ZIu/Uy7V77+UN4MPQ6sFcCs=
+Modified: 638405034238635252
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\SXA Hero.yml
+ID: "d1c41f03-e0eb-4eb2-829b-b9584ea1839e"
+Parent: "de80e77c-ba03-4315-81a4-a1b0a1831a5a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Components/SXA Hero
+Signature: uRj6boH/sPPGOwpylXYgJO+avvqxGi72Xyle35IPubY=
+Modified: 638405034238795061
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\JSS Settings\__Standard Values.yml
+ID: "39e70f33-1a07-43c0-a006-edd697e56b2d"
+Parent: "095fd92c-6ed2-4337-a125-17b12c66339e"
+Template: "095fd92c-6ed2-4337-a125-17b12c66339e"
+Path: /sitecore/templates/Project/ESDemo/JSS Settings/__Standard Values
+Signature: et2A9PL0uNAxUGT4KgJ++xdQjbjROtxN0iDTH7qjkt4=
+Modified: 638405034239075052
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT\Lit Button.yml
+ID: "922dc032-c3fa-4a36-8cfb-21ef81108842"
+Parent: "7189a791-fc5a-4115-90ab-8782d1b85b6d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/LIT/Lit Button
+Signature: mQgIK3GXEV3VS+3cLVxDp6WAy7NI2ZbShIvIG+BXDDQ=
+Modified: 638405034238815040
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Headless Site\__Standard Values.yml
+ID: "6fa810a1-d43e-440e-bab6-2c23ccd0ddc7"
+Parent: "4a292725-61c7-4588-b129-d9dc4fe6b3b3"
+Template: "4a292725-61c7-4588-b129-d9dc4fe6b3b3"
+Path: /sitecore/templates/Project/ESDemo/Headless Site/__Standard Values
+Signature: QyWN44GHpLWlF8rrzqzJZfIPYkANTZO/0drJgM3l/MI=
+Modified: 638405034239055052
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT\Rendering Parameters.yml
+ID: "0ca7e4e9-a817-412d-aa21-aef38ee4afca"
+Parent: "7189a791-fc5a-4115-90ab-8782d1b85b6d"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/ESDemo/LIT/Rendering Parameters
+Signature: RQHhSbCwPQbYDlU9rIIvtXQuX6Z0O9o7GYLS97/1cHc=
+Modified: 638405034238825044
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Headless Tenant\__Standard Values.yml
+ID: "b3d89c80-a375-435a-a570-439a283fed1b"
+Parent: "7cd8ff51-3ff9-4e85-a225-2f1c995cfecc"
+Template: "7cd8ff51-3ff9-4e85-a225-2f1c995cfecc"
+Path: /sitecore/templates/Project/ESDemo/Headless Tenant/__Standard Values
+Signature: m3QKZUn9aGeFW4TdPOqbRPqftdRxuzevAnKwR8RDe7s=
+Modified: 638405034239065044
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page Content\__Standard Values.yml
+ID: "6daa3c15-afac-48b0-b947-9a7f74eefe5e"
+Parent: "2b408b1f-993f-40e2-85ae-33283225d6e5"
+Template: "2b408b1f-993f-40e2-85ae-33283225d6e5"
+Path: /sitecore/templates/Project/ESDemo/Page Content/__Standard Values
+Signature: WgmifTZE6h2G7itkVUSjCf/dxAowadec2xaAgbvEMS0=
+Modified: 638405034239115180
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page Design Folder\__Standard Values.yml
+ID: "71faf664-5124-47dc-913f-8a75ff88b4f4"
+Parent: "9d457f4f-29d1-4ac7-a784-87eb2b1cfb9f"
+Template: "9d457f4f-29d1-4ac7-a784-87eb2b1cfb9f"
+Path: /sitecore/templates/Project/ESDemo/Page Design Folder/__Standard Values
+Signature: 3m4dWDtszVkS4sgJgyB6fyDaw+3QYC4Rk4oMxi9GdN0=
+Modified: 638405034239135076
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page\Content.yml
+ID: "c6fa2d9a-06bd-4cf2-8ad0-0f0d0c3b0665"
+Parent: "78e429e0-f9f8-476d-b3d6-7fa717e8e2e8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/ESDemo/Page/Content
+Signature: +vk2pSS6xtlMagZqBSwDToxMWUU71pO3uhdnz4905ds=
+Modified: 638405034238855048
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Rendering Parameters\SXA Hero Rendering Parameters.yml
+ID: "60aef801-7cb7-405a-9685-64827f593b63"
+Parent: "e7c4fe31-a53c-49da-9333-07dfd491805f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/Rendering Parameters/SXA Hero Rendering Parameters
+Signature: Bv7gkD/qlirm+ylvHpIyDlMDdROVoBgNXrAiqn0uJzo=
+Modified: 638405034238835043
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page\__Standard Values.yml
+ID: "a13aaf88-3eb4-40e7-a4fe-ba22272a1649"
+Parent: "78e429e0-f9f8-476d-b3d6-7fa717e8e2e8"
+Template: "78e429e0-f9f8-476d-b3d6-7fa717e8e2e8"
+Path: /sitecore/templates/Project/ESDemo/Page/__Standard Values
+Signature: CQ+AVMCSdiGXE4QTlP7+6AC7reOZzqwUXZ7cQyZnOVs=
+Modified: 638405034239095065
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page Designs\__Standard Values.yml
+ID: "f54fcddf-0ccf-48fe-a937-4b4cbe7b0c43"
+Parent: "bb1120ca-6472-400b-b9f1-e0937608deda"
+Template: "bb1120ca-6472-400b-b9f1-e0937608deda"
+Path: /sitecore/templates/Project/ESDemo/Page Designs/__Standard Values
+Signature: ZmIJxf8Tg78SsYzy23iGm9SvV+XpmbCbHqkgcsSMhKk=
+Modified: 638405034239145068
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero\Hero Details.yml
+ID: "d329a719-d554-4571-9a04-c6274f3fc865"
+Parent: "80250061-fbc6-4253-9273-528d1706d4e4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero/Hero Details
+Signature: qDkbJ8VziQdDc9fKE5aw7wHY1MNmQI41sSZiF6Q2VTk=
+Modified: 638405034238875048
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Partial Design Folder\__Standard Values.yml
+ID: "322d8107-68a4-4d69-93e2-c92c4f65140a"
+Parent: "80f2cf48-e0b9-4e52-9c7b-87bfb2df4b45"
+Template: "80f2cf48-e0b9-4e52-9c7b-87bfb2df4b45"
+Path: /sitecore/templates/Project/ESDemo/Partial Design Folder/__Standard Values
+Signature: 9N/l7ODEVXIunFin3PaQGP4WV1qyoMAt24HBkqCGb5g=
+Modified: 638405034239165062
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT\Lit Button\Details.yml
+ID: "a534cab0-ad2e-4d7c-a736-90a904c3dd39"
+Parent: "922dc032-c3fa-4a36-8cfb-21ef81108842"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/ESDemo/LIT/Lit Button/Details
+Signature: tKMkaDXsqZF6AU1L+qR0RwiCtd2evTi2bFPfjbNcbnc=
+Modified: 638405034238905047
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Partial Designs\__Standard Values.yml
+ID: "c4deb473-30f0-4e33-8680-e778d60e4a7f"
+Parent: "be5e5d07-a8ce-4c67-b1e0-a3d1ff44acb9"
+Template: "be5e5d07-a8ce-4c67-b1e0-a3d1ff44acb9"
+Path: /sitecore/templates/Project/ESDemo/Partial Designs/__Standard Values
+Signature: zM782QVwqKVG6AMwI4Oc7wftiVHiSwQWAFlI/lizpOk=
+Modified: 638405034239175053
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero\__Standard Values.yml
+ID: "7d18684c-7b1f-4f6c-8057-9a13d0902aed"
+Parent: "80250061-fbc6-4253-9273-528d1706d4e4"
+Template: "80250061-fbc6-4253-9273-528d1706d4e4"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero/__Standard Values
+Signature: Vs3eazIO1p5MLo5QeD3J7HyQkI4uKxXgBQRlb7vYxqg=
+Modified: 638405034239195066
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT\Rendering Parameters\LIT Component Rendering Parameters.yml
+ID: "fe7a9111-1cea-4ea0-8a7a-4fa27bce0a66"
+Parent: "0ca7e4e9-a817-412d-aa21-aef38ee4afca"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/ESDemo/LIT/Rendering Parameters/LIT Component Rendering Parameters
+Signature: TlksNbQHT31b95npVGz3MQ7rVyx9ULl/Vy5owODxItY=
+Modified: 638405034238925042
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero Folder\__Standard Values.yml
+ID: "35e2e6ac-b21f-40c4-b0d4-5aa3977e5353"
+Parent: "9495a9d1-89ce-47bf-97c6-8913a3a9a12c"
+Template: "9495a9d1-89ce-47bf-97c6-8913a3a9a12c"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero Folder/__Standard Values
+Signature: HrX8UctQKufLAA178KaMJYXrE+cS+UkIKGGdsgpTpQU=
+Modified: 638405034239205085
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero\Hero Details\heroHeading.yml
+ID: "b2c1b074-0138-457e-a73d-dedabf6b61d2"
+Parent: "d329a719-d554-4571-9a04-c6274f3fc865"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero/Hero Details/heroHeading
+Signature: T+G0ut/41l8flYNrbwEDomYqkDbXJh/bUAlCxPyHMRo=
+Modified: 638405034238975072
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\SXA Hero\SXA Hero Details.yml
+ID: "4b2057d5-a2b1-4b73-93bf-666778fc693e"
+Parent: "d1c41f03-e0eb-4eb2-829b-b9584ea1839e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/ESDemo/Components/SXA Hero/SXA Hero Details
+Signature: 1RO+k3NqSNXqi141m+G8muLdUC3DGsrBXIcPVN5IHH8=
+Modified: 638405034238885060
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page\Content\Content.yml
+ID: "dd858c93-f58e-4548-8ebf-eaef935bb97e"
+Parent: "c6fa2d9a-06bd-4cf2-8ad0-0f0d0c3b0665"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/Page/Content/Content
+Signature: Jor/RzOrxOW8FAMH9Kg51Xr5O0OiAr1JFSbhvshivsY=
+Modified: 638405034238955165
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\SXA Hero\SXA Hero Details\heroBody.yml
+ID: "d3806adf-64d8-4139-bcaa-26979efb7d80"
+Parent: "4b2057d5-a2b1-4b73-93bf-666778fc693e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/Components/SXA Hero/SXA Hero Details/heroBody
+Signature: MeexZA0R3IBJbRA1Y5KpC+xmsw2l0DPKAQSEJbLiW/w=
+Modified: 638405034239025042
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Page\Content\Title.yml
+ID: "1db38430-cce6-4286-ab29-ce9f94ac835b"
+Parent: "c6fa2d9a-06bd-4cf2-8ad0-0f0d0c3b0665"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/Page/Content/Title
+Signature: PFdkDH9lCDaOjG1oa3f2WjyH5Fnp1lS2z4tOEyRY/Yg=
+Modified: 638405034238945073
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Rendering Parameters\SXA Hero Rendering Parameters\__Standard Values.yml
+ID: "6f31b221-0793-4169-804e-d0ab0e394702"
+Parent: "60aef801-7cb7-405a-9685-64827f593b63"
+Template: "60aef801-7cb7-405a-9685-64827f593b63"
+Path: /sitecore/templates/Project/ESDemo/Rendering Parameters/SXA Hero Rendering Parameters/__Standard Values
+Signature: elf2O/IxUwbsJ1EWg8q9J3O0x7RoD+xepDs9Nlp/Ip4=
+Modified: 638405034239225054
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\SXA Hero\SXA Hero Details\heroHeading.yml
+ID: "43fc349c-1fcb-4e16-8339-96fb79b91f75"
+Parent: "4b2057d5-a2b1-4b73-93bf-666778fc693e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/Components/SXA Hero/SXA Hero Details/heroHeading
+Signature: QFd5vyL7qgaCOnCj70uUPtPbwp+F+dANc9BXefyjc0M=
+Modified: 638405034239005064
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT\Rendering Parameters\LIT Component Rendering Parameters\__Standard Values.yml
+ID: "afa0faa3-49b0-4cf6-b8c1-ea92dae391aa"
+Parent: "fe7a9111-1cea-4ea0-8a7a-4fa27bce0a66"
+Template: "fe7a9111-1cea-4ea0-8a7a-4fa27bce0a66"
+Path: /sitecore/templates/Project/ESDemo/LIT/Rendering Parameters/LIT Component Rendering Parameters/__Standard Values
+Signature: HalEtohsL/9GeB6oAyUvkcIonKuXATpHmKQlfu83g7o=
+Modified: 638405034239245045
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\Components\Hero\Hero Details\heroBody.yml
+ID: "4c37debb-adbe-430d-a7e3-269b5613a72e"
+Parent: "d329a719-d554-4571-9a04-c6274f3fc865"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/Components/Hero/Hero Details/heroBody
+Signature: s1YnDeonHHXoCb05p3hasG/y/EFs0BRGKy6zC2K/ghc=
+Modified: 638405034238995106
+---
+File: |
+  C:\code\cli\src\modules\serialization\templates\ESDemo\LIT\Lit Button\Details\link.yml
+ID: "681e1ec7-ae5d-40d7-9864-c4bd0c5a1b16"
+Parent: "a534cab0-ad2e-4d7c-a736-90a904c3dd39"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/ESDemo/LIT/Lit Button/Details/link
+Signature: O9jDoX2qdEhCcphH4I4AUeWjEqSgHmP5FgjnOXpRNtk=
+Modified: 638405034239035048

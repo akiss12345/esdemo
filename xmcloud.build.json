@@ -1,11 +1,15 @@
 {
     "renderingHosts": {
       "esdemo": {
-        "path": ".",
+        "path": "./",
         "nodeVersion": "20.10.0",
         "jssDeploymentSecret": "ayc3vth01yuc97zrz80ifb9nspfdu72n8bqgkkp7j",
         "enabled": true,
-        "type": "sxa"
+        "type": "sxa",
+        "lintCommand": "lint",
+        "startCommand": "start:production",
+        "buildCommand": "build",
+        "runCommand": "next:start"
       }
     }
   }

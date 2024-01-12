@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\code\\cli\\platform\\Platform.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\cli\\platform\\Platform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\cli\\platform\\Platform.csproj",
+        "projectName": "Platform",
+        "projectPath": "C:\\code\\cli\\platform\\Platform.csproj",
+        "packagesPath": "C:\\Users\\epam_akiss\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\cli\\platform\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\epam_akiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.sitecore.com/resources/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Sitecore.Assemblies.SitecoreHeadlessServicesServer": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XmCloud.Assemblies": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XmCloud.ContentSearch": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XmCloud.ContentSearch.Linq": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XmCloud.Kernel": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XmCloud.LayoutService": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
